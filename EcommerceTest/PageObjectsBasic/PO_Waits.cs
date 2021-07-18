@@ -7,7 +7,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using SeleniumExtras.WaitHelpers;
 using SeleniumWaitHelper = SeleniumExtras.WaitHelpers;
 using System.Threading;
 
